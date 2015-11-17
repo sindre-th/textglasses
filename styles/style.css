@@ -1,0 +1,56 @@
+body{
+    background-color: #EEE;
+
+    font-family: myriad-pro,Helvetica, Arial, sans-serif;   
+    background-image: url("/images/banner.jpg");
+    background-size: 100% 100%;
+}
+
+
+h1, h2, h3 {
+    margin: 0;
+    text-align: center;
+    text-decoration: underline;
+      
+}
+
+#container { 
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    width: 800px;
+    height: 50px;
+    position:relative;
+    
+}
+
+#logo{
+    
+}
+
+#content {
+    padding: 10px;
+}
+
+#main{
+    width: 500px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#footer {
+    clear: both;
+    padding: 10px;
+    background-color:skyblue;
+    text-align: right;
+    
+}
