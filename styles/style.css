@@ -22,18 +22,13 @@ h1, h2, h3 {
 }
 
 #header {
-    padding-top: 1em;
-    padding-bottom: 1em;
+    padding-top: 1.5em;
     background-color: skyblue;
     color: white;
     text-align: center;
     width: 800px;
     height: 50px;
     position:relative;
-    
-}
-
-#logo{
     
 }
 
